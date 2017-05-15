@@ -1,0 +1,10 @@
+function x = CaussInRow( A,b,ptol )
+  if nargin < 3,
+     ptol = 50*eps; 
+  end
+
+
+
+   return x;
+end
+
